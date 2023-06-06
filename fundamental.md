@@ -4,7 +4,7 @@
 - [Tipe Data](#tipe-data)
 - [Operator](#operator)
 - [Input & Output](#input-dan-output)
-- [Attribute & Method](#attribute-dan-method)
+- [Class, Object, Attribute dan Method](#class-object-attribute-dan-method)
 
 ## Tipe Data
 
@@ -48,7 +48,8 @@ Berikut contoh sintaks Integer :
 Array adalah obyek yang bisa digunakan untuk menyimpan kumpulan data lebih dari satu dengan tipe  sama. Array memiliki jumlah data yang fixed (tetap).
 
 - ### Ilustrasi Array
-<img src="https://d17ivq9b7rppb3.cloudfront.net/original/academy/20180417213639a0754618c73bcaf48a7fcd1832dc5a8c." width="500">
+
+<img src="https://github.com/ardenaAfif/Modul-PBO/blob/main/assets/array_ilustrasi.png" width="400">
 
 Angka di atas menunjukkan indeks dari array tersebut, yakni dimulai dari 0 sampai 6. Setiap kolom nilai bisa disebut sebagai elemen.
 
@@ -129,4 +130,59 @@ Berikut contoh penggunaan Operator Operasi Equality dan Relational :
 <img src="https://github.com/ardenaAfif/Modul-PBO/blob/main/assets/Equality%20and%20Relational.png" width="400">
 
 ## Input dan Output
-## Attribute dan Method
+- ### Input
+Pemrograman Java terdiri dari tiga komponen utama, yaitu Input, Proses, dan Output. Pada materi sebelumnya, kita telah mempelajari beberapa kode yang terkait dengan proses dan output. Pada materi ini, kita akan mempelajari bagaimana cara mengambil input, melakukan proses terhadap input tersebut, dan menampilkan hasilnya pada layar.
+
+Scanner merupakan kelas yang menyediakan fungsi-fungsi untuk membaca dan mengambil input dari pengguna. Scanner memiliki kemudahan yang dapat membaca teks, baik yang memiliki tipe data primitif maupun string.
+
+Contoh penggunaan _Scanner_ :
+
+<img src="https://github.com/ardenaAfif/Modul-PBO/blob/main/assets/scanner.png" width="400">
+
+NB.
+- Jangan lupa untuk import `import java.util.Scanner;`
+- dan deklarasikan scanner `Scanner scanner = new Scanner(System.in);`
+
+- ### Output (_print dan println_)
+Tentunya kita sudah familiar bagaimana memberikan output dari yang sudah kita praktikkan pada beberapa contoh program sebelumnya. Pada dasarnya kedua fungsi di atas sama-sama memiliki peran untuk menampilkan teks di Console maupun dari IDE yang kita gunakan.
+
+Apa yang berbeda diantara 2 fungsi di atas? Berikut implementasinya:
+
+1. Penggunaan `println` akan menampilkan teks dan tambahan baris baru.
+
+<img src="https://github.com/ardenaAfif/Modul-PBO/blob/main/assets/print.png" width="400">
+
+2. Sedangkan fungsi print menampilkan keluaran berupa teks sesuai dengan yang dimasukkan.
+
+<img src="https://github.com/ardenaAfif/Modul-PBO/blob/main/assets/println.png" width="400">
+
+## Class, Object, Attribute dan Method
+Berikut materi tentang fundamental Pemrograman Berorientasi Objek
+
+- ### Class
+Class adalah blueprint dari objek yang dibentuk, dimana dapat menggambarkan ciri-ciri objek secara umum.
+
+Contoh sintaks dari _class_ :
+
+- ### Object
+
+Objek adalah hasil instansiasi/bentukan dari sebuah class. Dengan kata lain satu class dapat membentuk objek sampai tak terhingga.
+
+Contoh sintaks dari _Object_ :
+
+<img src="https://github.com/ardenaAfif/Modul-PBO/blob/main/assets/object.png" width="400">
+
+- ### Attribute
+
+Atribut merupakan ciri yang ada pada suatu objek.
+
+Contoh sintaks dari _Attribute_ : 
+
+<img src="https://github.com/ardenaAfif/Modul-PBO/blob/main/assets/attribute.png" width="400">
+
+- ### Method
+Method merupakan fungsi yang digunakan untuk memanipulasi atau mengakses nilai pada atribut. Method berisi sekumpulan kode program yang dapat diakses sewaktu-waktu hanya dengan pemanggilan nama method tersebut. 
+
+Contoh sintaks dari _Method_ : 
+
+<img src="https://github.com/ardenaAfif/Modul-PBO/blob/main/assets/method.png" width="400">
