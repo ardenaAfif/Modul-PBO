@@ -7,6 +7,7 @@
 - [Class, Object, Attribute dan Method](#class-object-attribute-dan-method)
 
 ## Tipe Data
+>>> [UP](#fundamental-java)
 
 > ### String
 
@@ -75,6 +76,8 @@ Berikut sintaks boolean:
 
 
 ## Operator
+>>> [UP](#fundamental-java)
+
 Operator dalam Java merupakan suatu simbol yang digunakan untuk melakukan suatu operasi tertentu (memanipulasi, mengolah) satu atau lebih variabel. Variabel yang dioperasikan disebut sebagai operand. Bahasa Java memiliki banyak operator yang dapat digunakan dan bisa dikelompokkan menjadi beberapa kategori, seperti :
 
 - [Operasi Assignment](#operasi-assignment)
@@ -130,6 +133,7 @@ Berikut contoh penggunaan Operator Operasi Equality dan Relational :
 <img src="https://github.com/ardenaAfif/Modul-PBO/blob/main/assets/Equality%20and%20Relational.png" width="400">
 
 ## Input dan Output
+>>> [UP](#fundamental-java)
 - ### Input
 Pemrograman Java terdiri dari tiga komponen utama, yaitu Input, Proses, dan Output. Pada materi sebelumnya, kita telah mempelajari beberapa kode yang terkait dengan proses dan output. Pada materi ini, kita akan mempelajari bagaimana cara mengambil input, melakukan proses terhadap input tersebut, dan menampilkan hasilnya pada layar.
 
@@ -157,6 +161,7 @@ Apa yang berbeda diantara 2 fungsi di atas? Berikut implementasinya:
 <img src="https://github.com/ardenaAfif/Modul-PBO/blob/main/assets/println.png" width="400">
 
 ## Class, Object, Attribute dan Method
+>>> [UP](#fundamental-java)
 Berikut materi tentang fundamental Pemrograman Berorientasi Objek
 
 - ### Class
