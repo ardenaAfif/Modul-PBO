@@ -89,6 +89,8 @@ Operator Assignment adalah salah satu operator yang umum digunakan dalam pemrogr
 
 Berikut contoh penggunaan Operator Assignment :
 
+<img src="https://github.com/ardenaAfif/Modul-PBO/blob/main/assets/assignment.png" width="400">
+
 
 ### Operasi Arithmetic
 Java menyediakan berbagai operator aritmatika yang digunakan untuk melakukan perhitungan matematika. 
@@ -104,6 +106,9 @@ Operator-operator aritmatika yang umum digunakan di Java adalah sebagai berikut:
 | %        | Operator sisa hasil atau modulus            |
 
 Berikut contoh penggunaan Operator Arithmetic :
+
+<img src="https://github.com/ardenaAfif/Modul-PBO/blob/main/assets/aritmatika.png" width="400">
+
 
 ### Operasi Equality dan Relational
 Operator Equality and Relational digunakan untuk membandingkan dan menentukan hubungan antara dua variabel atau operand. Operator-operator ini menghasilkan nilai boolean, yaitu true (benar) atau false (salah), tergantung pada hasil perbandingan yang dilakukan.
@@ -121,6 +126,7 @@ Berikut adalah beberapa operator Equality and Relational yang tersedia dalam pem
 
 Berikut contoh penggunaan Operator Operasi Equality dan Relational :
 
+<img src="https://github.com/ardenaAfif/Modul-PBO/blob/main/assets/Equality%20and%20Relational.png" width="400">
 
 ## Input dan Output
 ## Attribute dan Method
