@@ -134,6 +134,7 @@ Berikut contoh penggunaan Operator Operasi Equality dan Relational :
 
 ## Input dan Output
 >>> [UP](#fundamental-java)
+
 - ### Input
 Pemrograman Java terdiri dari tiga komponen utama, yaitu Input, Proses, dan Output. Pada materi sebelumnya, kita telah mempelajari beberapa kode yang terkait dengan proses dan output. Pada materi ini, kita akan mempelajari bagaimana cara mengambil input, melakukan proses terhadap input tersebut, dan menampilkan hasilnya pada layar.
 
@@ -162,6 +163,7 @@ Apa yang berbeda diantara 2 fungsi di atas? Berikut implementasinya:
 
 ## Class, Object, Attribute dan Method
 >>> [UP](#fundamental-java)
+
 Berikut materi tentang fundamental Pemrograman Berorientasi Objek
 
 - ### Class
