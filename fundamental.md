@@ -4,7 +4,7 @@
 - [Tipe Data](#tipe-data)
 - [Operator](#operator)
 - [Input & Output](#input-dan-output)
-- [Class, Object, Attribute dan Method](#class-object-attribute-dan-method)
+- [Fundamental OOP](#class-object-attribute-dan-method)
 
 ## Tipe Data
 >>> [UP](#fundamental-java)
@@ -171,13 +171,16 @@ Class adalah blueprint dari objek yang dibentuk, dimana dapat menggambarkan ciri
 
 Contoh sintaks dari _class_ :
 
+<img src="https://github.com/ardenaAfif/Modul-PBO/blob/main/assets/class.png" width="400">
+
+
 - ### Object
 
 Objek adalah hasil instansiasi/bentukan dari sebuah class. Dengan kata lain satu class dapat membentuk objek sampai tak terhingga.
 
 Contoh sintaks dari _Object_ :
 
-<img src="https://github.com/ardenaAfif/Modul-PBO/blob/main/assets/object.png" width="400">
+<img src="https://github.com/ardenaAfif/Modul-PBO/blob/main/assets/object.png" width="500">
 
 - ### Attribute
 
