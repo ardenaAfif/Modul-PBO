@@ -11,4 +11,4 @@ Di dalam bahasa pemrograman Java, string merupakan sebuah tipe data reference. T
 
 Berikut contoh sintaks deklarasi String
 
-![Gambar](assets/string.png)
+<img src="https://github.com/ardenaAfif/Modul-PBO/blob/main/assets/string.png" width="300">
